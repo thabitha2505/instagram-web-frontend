@@ -53,9 +53,7 @@ Applied responsive design principles to maintain readability and usability on sm
 ![Screenshot 2024-02-25 161935](https://github.com/thabitha2505/instagram-web-frontend/assets/118505858/b7481197-3d00-4635-8c40-aca24e529b09)
 
 ![Screenshot 2024-02-25 161704](https://github.com/thabitha2505/instagram-web-frontend/assets/118505858/4a4bad49-4e1e-4e59-8dd4-cf4167400c95)
+![Screenshot 2024-02-25 161429](https://github.com/thabitha2505/instagram-web-frontend/assets/118505858/b5b94724-94cf-4dfe-81d6-9f75f61cdf2f)
 
-![Screenshot 2024-02-25 161429](https://github.com/thabitha2505/instagram-web-frontend/assets/118505858/2e3a0d11-b![Screenshot 2024-02-25 161847](https://github.com/thabitha2505/instagram-web-frontend/assets/118505858/fd1d87a3-644b-46d3-aa1b-9ffc237a408a)
-88e-44b0-ab3e-d2f482f7654d)
-
-
+![Screenshot 2024-02-25 161847](https://github.com/thabitha2505/instagram-web-frontend/assets/118505858/cc781508-761e-406e-87be-57a5024fb731)
 
